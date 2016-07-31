@@ -1,6 +1,6 @@
 #!/usr/bin/python3.3
 
-
+# solution for http://www.practicepython.org/exercise/2014/02/05/02-odd-or-even.html
 
 while True:
 	try:
