@@ -1,5 +1,7 @@
 #!/usr/bin/python3.3
 
+# solution for http://www.practicepython.org/exercise/2014/01/29/01-character-input.html
+
 import datetime
 
 today=datetime.datetime.now()
